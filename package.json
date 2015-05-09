@@ -8,6 +8,8 @@
     "start": "node server.js"
   },
   "author": "Hunter Loftis <hunter@hunterloftis.com>",
+  "repository": "https://github.com/heroku-examples/node-grunt.git",
+  "readme": "https://github.com/heroku-examples/node-grunt/blob/master/readme.md",
   "license": "ISC",
   "dependencies": {
     "express": "4.12.3",
