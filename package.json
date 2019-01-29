@@ -4,7 +4,7 @@
   "description": "Heroku example for using Grunt with Node.js",
   "main": "index.js",
   "scripts": {
-    "postinstall": "grunt uglify",
+    "heroku-postbuild": "grunt uglify",
     "start": "node server.js"
   },
   "author": "Hunter Loftis <hunter@hunterloftis.com>",
